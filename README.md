@@ -1,3 +1,2 @@
-# Credit goes to Savindra Jain, Kiran S, Badal Kotecha, Ganga Hiremath
-
 #Attempting Jenkins Build Trigger post commit
+# Credit goes to Alfa, Beta, Gama, Ray!
